@@ -25,7 +25,7 @@
 ![Step5](5th.png)
 
 ### 6️⃣ Sixth Step
-![Step6](images/6th.png)
+![Step6](6th.png)
 
 ### 7️⃣ Seventh Step
 ![Step7](7th.png)
